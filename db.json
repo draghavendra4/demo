@@ -1,14 +1,70 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "id" : 1,
+  "skill": "c-language",
+  "Rating" : 0.8162456
+},
+
+{
+  "id" : 2,
+  "skill": "c++",
+  "Rating" : 0.812455
+},
+
+{
+ "id" : 3, 
+ "skill" : "Mainframes",
+ "Rating": 0.812565,
+},
+
+{
+  "id" : 4, 
+  "skill" : "cobol",
+  "Rating" : 0.812545
+},
+
+{
+   "id" : 5, 
+  "skill" : "Dot.net",
+  "Rating" : 0.812467
+},
+
+{
+  "id" : 6,
+  "skill" : "Java",
+  "Rating": 0.842562
+},
+
+{
+ "id" : 7,
+ "skill" : "Html5",
+ "Rating": 0.8624243
+  
+},
+
+{
+  "id" : 8,
+  "skill" : "css3",
+  "Rating" : 0.8624245
+},
+
+{
+  
+  "id" : 9,
+  "skill" : "Javascript",
+  "Rating" : 0.84648464
+  
+},
+
+{
+  "id" : 10,
+   "skill" : "Angular",
+  "Rating" : 0.86428423
+  
 }
+
+
+
+
+
+  
+ 
